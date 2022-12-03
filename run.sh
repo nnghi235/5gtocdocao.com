@@ -29,7 +29,7 @@ Nodes:
     PanelType: "V2board" 
     ApiConfig:
       ApiHost: "https://5gtocdocao.com"
-      ApiKey: "nguyenvannghi_nguyenvannghi"
+      ApiKey: "tocdo5gcaotocdo5gcao"
       NodeID1: 1
       NodeType: V2ray 
       Timeout: 30 
@@ -67,7 +67,7 @@ Nodes:
     PanelType: "V2board" 
     ApiConfig:
       ApiHost: "https://5gtocdocao.com"
-      ApiKey: "nguyenvannghi_nguyenvannghi"
+      ApiKey: "tocdo5gcaotocdo5gcao"
       NodeID2: 1
       NodeType: V2ray 
       Timeout: 30 
